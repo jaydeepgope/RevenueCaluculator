@@ -48,7 +48,7 @@ The project leverages the following technologies and tools:
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone <(https://github.com/jaydeepgope/RevenueCaluculator.git)>
    cd RevenueCalculator
 2.**Update Chromedriver Path**: 
 Replace the placeholder path in stepdefinitions/FitPeoRevenueCalculatorSteps.java with the path to your local chromedriver.
